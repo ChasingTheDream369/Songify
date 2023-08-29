@@ -48,7 +48,7 @@ Replace this with the installation steps.
 
 ## Usage 🎵
 
-Replace this with instructions on how to use CS bEats.
+Replace this with instructions on how to use Songify.
 
 ## Contributing 🤝
 
