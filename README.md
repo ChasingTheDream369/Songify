@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/license/ChasingTheDream369/Songify" alt="License">
 </p>
 
-<h1 align="center">CS bEats</h1>
+<h1 align="center">Songify</h1>
 <p align="center">🎵 Musical Beat Management System 🎶</p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <strong>Welcome to CS bEats!</strong>
+  <strong>Songify!</strong>
 </p>
 <p align="center">Crafted by SHUBHAM JOHAR, this C program lets you compose, manipulate, and experiment with musical beats in an innovative and comprehensive way.</p>
 
