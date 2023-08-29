@@ -10,7 +10,7 @@
 <p align="center">🎵 Musical Beat Management System 🎶</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/REPLACE_WITH_IMAGE_URL" alt="CS bEats Screenshot">
+  <img src="https://user-images.githubusercontent.com/12345678/REPLACE_WITH_IMAGE_URL" alt="Songify Screenshot">
 </p>
 
 <p align="center">
