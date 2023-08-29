@@ -39,7 +39,7 @@
 - **Intuitive Interaction:** Visualize beats and tracks in a human-readable format with functions like `print_beat` and `print_track`.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/REPLACE_WITH_IMAGE_URL" alt="CS bEats Demo">
+  <img src="https://user-images.githubusercontent.com/12345678/REPLACE_WITH_IMAGE_URL" alt="Songify Demo">
 </p>
 
 ## Installation 🚀
